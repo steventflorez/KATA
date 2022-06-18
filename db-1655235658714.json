@@ -1,0 +1,51 @@
+{
+  "hombres": [
+    {
+      "id": 1,
+      "nombre": "Diego",
+      "edad": "8"
+    },
+    {
+      "id": 2,
+      "nombre": "Stevent",
+      "edad": "28"
+    },
+    {
+      "id": 3,
+      "nombre": "Esteban",
+      "edad": "8"
+    },
+    {
+      "id": 5,
+      "nombre": "Alexander",
+      "edad": "53"
+    },
+    {
+      "id": "6",
+      "nombre": "carlos",
+      "edad": "12"
+    },
+    {
+      "id": "7",
+      "nombre": "Pedro",
+      "edad": "60"
+    }
+  ],
+  "mujeres": [
+    {
+      "id": 1,
+      "nombre": "Geraldine",
+      "edad": "24"
+    },
+    {
+      "id": 2,
+      "nombre": "Linda",
+      "edad": "21"
+    },
+    {
+      "id": 3,
+      "nombre": "Vianny",
+      "edad": "47"
+    }
+  ]
+}
